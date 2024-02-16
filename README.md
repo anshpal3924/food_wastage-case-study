@@ -1,1 +1,1 @@
-# food_wastage-case-study
+# food_wastage_case_study
